@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire" "4.8.2"
+github "aws/aws-sdk-ios" "2.10.2"
+github "dropbox/SwiftyDropbox" "5.1.0"
+github "kishikawakatsumi/KeychainAccess" "v3.2.0"
+github "stripe/stripe-ios" "v16.0.6"
+github "tadija/AEXML" "4.4.0"
